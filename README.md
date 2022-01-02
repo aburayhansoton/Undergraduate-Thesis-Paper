@@ -1,1 +1,9 @@
-# Undergraduate-Thesis-Paper
+Thesis Paper Title: Housing Prices Prediction Using Machine Learning Algorithm
+Supervisor: Jie Li
+            Associate Professor
+            School of Intelligent Technology and Engineering
+            Chongqing University of Science and Technology
+
+Abstract: Machine learning a major role from past years in image detection, spam reorganization, normal speech command, product recommendation and medical diagnosis. Present machine learning algorithm helps us in enhancing security alerts, ensuring public safety and improve medical enhancements. Machine learning system also provides better customer service and safer automobile systems. In the present papers I discuss about the House prices Prediction using machine learning algorithm. For the selection of prediction methods, I look at and investigate different forecast techniques. I use Linear Relapse as our model as a result of its versatile and probabilistic strategy on the model determination.result exhibit that our approach of the issue needs to be successful, and has the ability to process predictions that would be comparative with other house cost prediction models. More over on other hand housing value indices, the advancement of a housing cost prediction that tend to the Ann cement of real estate policies schemes. This study utilizes machine learning algorithms as a research method that develops housing price prediction models. We create a housing cost prediction model in view of machine learning algorithm models for example, XGBoost, Linear Regression, Decision Tree and Random Forest Regression on look at their order precision execution. We in that point recommend a housing prices prediction model to support a house vender or a real estate agent for better information based on the valuation of house. Those assessments show that the rope relapse calculation, considering exactness, dependably beats substitute models in the execution of housing prices prediction.
+
+Keywords: Machine learning algorithm, Random Forest Regression, Decision Tree, Hosing Prices prediction, Multiple linear regression.
